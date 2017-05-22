@@ -19,7 +19,7 @@
  <div>
     <h1> align="center">This is Ocean's Home Page!</h1>
     <div align="center">
-    <img src="home.jpg" height="250">
+    <img src="showcasee/4viEiHIEzT.png" height="250">
     </div>
     <div style="background-color:black;color:white;padding:20px;">
   <h2>About Me</h2>
