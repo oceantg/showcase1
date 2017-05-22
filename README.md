@@ -4,7 +4,7 @@
 <html lang="en”>
   <head>
     <meta charset="utf-8">
-<title> "cool me" </title>
+    
 </head>
 <link href="mypage.css" rel="stylesheet" type="text/css"> 
 <body>
