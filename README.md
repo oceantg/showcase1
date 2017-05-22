@@ -17,7 +17,8 @@
                                                                       
  </p>               
  <br>
-    <h1 align="center">This is Ocean's Home Page!</h1>
+ <div>
+    <h1> align="center">This is Ocean's Home Page!</h1>
     <div align="center">
     <img src="home.jpg" height="250">
     </div>
