@@ -7,11 +7,7 @@
 </head>
 <link href="mypage.css" rel="stylesheet" type="text/css"> 
 <body>
-<style>
-body {
-    background-color: #f1e6f7;
-}
-</style>
+<style>body {background-color: #f1e6f7;}</style>
  <a href="home.html">Home</a>
 <a href="ice.html">ice</a>
     <a href="portfolio.html">Portfolio</a>
