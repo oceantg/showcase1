@@ -10,9 +10,12 @@
 <style>body {background-color: #f1e6f7;}</style>
  <a href="home.html">Home</a>
 <a href="ice.html">ice</a>
-    <a href="portfolio.html">Portfolio</a>
-    <a href="hello-world.html">Hello-world</a>
-    <p><a href="http://www.w3schools.com/html/">w3schools Tutorials</a></p>
+    
+    <p><center><a href="index.html.html">Index.html</a>
+   <center><a href="ice.html">Ice.html</a>
+   <center><a href="portfolio">portfolio</a> 
+                                                                      
+ </p>               
  <br>
     <h1 align="center">This is Ocean's Home Page!</h1>
     <div align="center">
