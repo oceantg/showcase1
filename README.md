@@ -23,8 +23,7 @@
     </div>
     <div style="background-color:black;color:white;padding:20px;">
   <h2>About Me</h2>
-  <p>I have been teaching for 13 years now and the last 5 years have been in computer technology.
-  This will be my second year teaching computer science to Freshman at Edison high school</p>
+  <p>Hello my name is Ocean Torres and i am a 15 year old freshman at Edison HighSchool.0l</p>
   <p>I have also been teaching IED introduction to Engineering which has been very rewarding to see student grasp concepts in design and structure..</p>
 <p> I have 4 beautiful children who like me enjoy playing sports and staying very active. I have runners, soccer players, basketball and volleyball</p>      </div>
  
