@@ -1,5 +1,7 @@
 
 # Home Page
+
+
 <html lang="en”>
   <head>
     <meta charset=>
@@ -18,6 +20,7 @@
  <br>
  <div>
     <h1> align="center">This is Ocean's Home Page!</h1>
+    
     <div align="center">
     <img src="4viEiHIEzT.png" height="250">
     </div>
