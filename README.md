@@ -10,8 +10,7 @@
 <style>body {background-color: #f1e6f7;}</style>
  <a href="home.html">Home</a>
 <a href="ice.html">ice</a>
-    
-    <p><center><a href="index.html.html">Index.html</a>
+ <center><a href="showcase1/index.html.html">Index.html</a>
    <center><a href="ice.html">Ice.html</a>
    <center><a href="portfolio">portfolio</a> 
                                                                       
