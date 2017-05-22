@@ -9,7 +9,7 @@
 </head>
 <link href="mypage.css" rel="stylesheet" type="text/css"> 
 <body>
-<style> {background-color: #f1e6f7;}</style>
+<style> {background-color: #f1e6f7;} </style>
  <a href="home.html">Home</a>
 <a href="ice.html">ice</a>
  <center><a href="showcase1/index.html.html">Index.html</a>
