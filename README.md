@@ -25,7 +25,7 @@
     </div>
     <div style="background-color:black;color:white;padding:20px;">
   <h2>About Me</h2>
-  <p>Hello my name is Ocean Torres and i am a 15 year old freshman at Edison HighSchool.0l</p>
+  <p>Hello my name is Ocean Torres and i am a 15 year old freshman at Edison HighSchool.</p>
   <p>I have also been teaching IED introduction to Engineering which has been very rewarding to see student grasp concepts in design and structure..</p>
 <p> I have 4 beautiful children who like me enjoy playing sports and staying very active. I have runners, soccer players, basketball and volleyball</p>      </div>
  
