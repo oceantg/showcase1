@@ -19,8 +19,7 @@
  </p>               
  <br>
  <div>
-    <h1> align="center">This is Ocean's Home Page!</h1>
-    
+   <h1>This is Ocean's Home Page!</h1>
     <div align="center">
     <img src="4viEiHIEzT.png" height="250">
     </div>
