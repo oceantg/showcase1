@@ -1,9 +1,9 @@
 
 <!doctype html>
-# showcase1
+# Home Page
 <html lang="en”>
   <head>
-    <meta charset="utf-8">
+    <meta charset=>
     
 </head>
 <link href="mypage.css" rel="stylesheet" type="text/css"> 
