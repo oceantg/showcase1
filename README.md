@@ -1,6 +1,5 @@
- # Home Page
-
-
+<!DOCTYPEhtml>
+# Home Page
 <html lang="en”>
   <head>
     <meta charset=>
@@ -15,9 +14,7 @@
    <center><a href="portfolio">portfolio</a> 
    <style/>
                                                                       
- </p>               
- <br>
- <div>
+ 
    <h1>This is Ocean's Home Page!</h1>
     <div align="center">
     <img src="4viEiHIEzT.png" height="250">
